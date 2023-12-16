@@ -15,7 +15,8 @@ Este é um projeto de Quiz desenvolvido em C# para ser executado no console. O a
 ##
 ## Instruções de Uso:
 1. Clone o repositório para sua máquina local.
-2. Execute o aplicativo no console.
+2. Execute o aplicativo no console ou execute o .EXE ```\ConsoleApp1\bin\Debug\ConsoleApp1.exe```
 3. Siga as instruções na tela para iniciar o Quiz.
 4. Responda às perguntas e veja sua pontuação final.
 5. Tenha a opção de visualizar o gabarito e reiniciar o jogo.
+   
