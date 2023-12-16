@@ -1,0 +1,7 @@
+E:\DEV\QUIZ_game\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\DEV\QUIZ_game\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\DEV\QUIZ_game\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\DEV\QUIZ_game\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\DEV\QUIZ_game\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\DEV\QUIZ_game\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\DEV\QUIZ_game\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
